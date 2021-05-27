@@ -1,2 +1,1 @@
-# csb-encoding-1
-Created with CodeSandbox
+# csb-vue-test
